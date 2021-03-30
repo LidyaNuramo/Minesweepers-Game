@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\Folders\WSG\First year second semester\Object Oriented Programming\Lab\Mine Sweepers Game\Mine Sweepers Game\bin\Debug\Mine Sweepers Game.exe.config
+C:\Users\user\Desktop\Folders\WSG\First year second semester\Object Oriented Programming\Lab\Mine Sweepers Game\Mine Sweepers Game\bin\Debug\Mine Sweepers Game.exe
+C:\Users\user\Desktop\Folders\WSG\First year second semester\Object Oriented Programming\Lab\Mine Sweepers Game\Mine Sweepers Game\bin\Debug\Mine Sweepers Game.pdb
+C:\Users\user\Desktop\Folders\WSG\First year second semester\Object Oriented Programming\Lab\Mine Sweepers Game\Mine Sweepers Game\obj\Debug\Mine Sweepers Game.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Folders\WSG\First year second semester\Object Oriented Programming\Lab\Mine Sweepers Game\Mine Sweepers Game\obj\Debug\Mine_Sweepers_Game.Form1.resources
+C:\Users\user\Desktop\Folders\WSG\First year second semester\Object Oriented Programming\Lab\Mine Sweepers Game\Mine Sweepers Game\obj\Debug\Mine_Sweepers_Game.Medium.resources
+C:\Users\user\Desktop\Folders\WSG\First year second semester\Object Oriented Programming\Lab\Mine Sweepers Game\Mine Sweepers Game\obj\Debug\Mine_Sweepers_Game.Properties.Resources.resources
+C:\Users\user\Desktop\Folders\WSG\First year second semester\Object Oriented Programming\Lab\Mine Sweepers Game\Mine Sweepers Game\obj\Debug\Mine Sweepers Game.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Folders\WSG\First year second semester\Object Oriented Programming\Lab\Mine Sweepers Game\Mine Sweepers Game\obj\Debug\Mine Sweepers Game.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Folders\WSG\First year second semester\Object Oriented Programming\Lab\Mine Sweepers Game\Mine Sweepers Game\obj\Debug\Mine Sweepers Game.exe
+C:\Users\user\Desktop\Folders\WSG\First year second semester\Object Oriented Programming\Lab\Mine Sweepers Game\Mine Sweepers Game\obj\Debug\Mine Sweepers Game.pdb
+C:\Users\user\Desktop\Folders\WSG\First year second semester\Object Oriented Programming\Lab\Mine Sweepers Game\Mine Sweepers Game\obj\Debug\Mine_Sweepers_Game.Easy.resources
+C:\Users\user\Desktop\Folders\WSG\First year second semester\Object Oriented Programming\Lab\Mine Sweepers Game\Mine Sweepers Game\obj\Debug\Mine_Sweepers_Game.Difficult.resources
